@@ -1,4 +1,4 @@
-# FOURPLAY-game-using-PYTHON
+# FOURPLAYGAME.PY 
 This is most awaited project based on python and used few libraries like pygame,etc and few more stuff.
 
 
@@ -6,7 +6,7 @@ Here's a README file for your FourPlay game project:
 
 ---
 
-# FourPlay Game
+# FourPlaygames.py
 
 Welcome to the FourPlay Game project! This is a Python-based implementation of the classic Connect Four game, with a unique twist. The game is designed for two players who take turns dropping colored discs into a vertical grid, aiming to be the first to connect four of their discs in a row, column, or diagonal.
 
